@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <osnovno>
+        <ime>Fran</ime>
+        <prezime>Pilija</prezime>
+        <jmbg>1234567890123</jmbg>
+        <datum_rodenja>19-05-2005</datum_rodenja>
+        <godina_studija>2</godina_studija>
+    </osnovno>
+    
+    <kontakt>
+        <email>fpilija@tvz.hr</email>
+        <telefon>091 999 3333</telefon>
+    </kontakt>
+
+    <kolegiji>
+        <kolegij>
+            <naziv>Digitalna fotografija</naziv>
+            <profesor>Milan Bajić</profesor>
+            <ects>4</ects>
+        </kolegij>
+        <kolegij>
+            <naziv>Grafički dizajn</naziv>
+            <profesor>Jana Žiljak Gršić</profesor>
+            <ects>6</ects>
+        </kolegij>
+        <kolegij>
+            <naziv>Engleski jezik u informatici 2</naziv>
+            <profesor>Biljana Stojaković</profesor>
+            <ects>3</ects>
+        </kolegij>
+    </kolegiji>
+</student>
